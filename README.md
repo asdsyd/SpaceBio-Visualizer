@@ -9,9 +9,8 @@ If you don't want to test using Xcode and install directly on your iPhone then t
 
 <img src="https://github.com/user-attachments/assets/d26852e2-5957-4a91-809f-8eb2467793b5" width=200>
 
-![iPhone 16 Pro Max - 1-2](https://github.com/user-attachments/assets/d26852e2-5957-4a91-809f-8eb2467793b5)
+<img src="https://github.com/user-attachments/assets/a32792fb-ea7e-4096-bbce-fe71329d24f7" width=200>
 
-![iPhone 16 Pro Max - 2-2](https://github.com/user-attachments/assets/a32792fb-ea7e-4096-bbce-fe71329d24f7)
 
 
 
